@@ -1,0 +1,48 @@
+C:\Users\skuan\source\repos\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\bin\Debug\WindowsFormsApp_LAB2.exe.config
+C:\Users\skuan\source\repos\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\bin\Debug\WindowsFormsApp_LAB2.exe
+C:\Users\skuan\source\repos\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\bin\Debug\WindowsFormsApp_LAB2.pdb
+C:\Users\skuan\source\repos\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\obj\Debug\WindowsFormsApp_LAB2.csproj.AssemblyReference.cache
+C:\Users\skuan\source\repos\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\obj\Debug\WindowsFormsApp_LAB2.Form1.resources
+C:\Users\skuan\source\repos\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\obj\Debug\WindowsFormsApp_LAB2.Properties.Resources.resources
+C:\Users\skuan\source\repos\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\obj\Debug\WindowsFormsApp_LAB2.csproj.GenerateResource.cache
+C:\Users\skuan\source\repos\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\obj\Debug\WindowsFormsApp_LAB2.csproj.CoreCompileInputs.cache
+C:\Users\skuan\source\repos\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\obj\Debug\WindowsFormsApp_LAB2.exe
+C:\Users\skuan\source\repos\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\obj\Debug\WindowsFormsApp_LAB2.pdb
+C:\Users\skuan\source\repos\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\obj\Debug\WindowsFormsApp_LAB2.Form2.resources
+C:\Users\skuan\source\repos\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\obj\Debug\WindowsFormsApp_LAB2.Form3.resources
+C:\Users\skuan\source\repos\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\bin\Debug\ClassLibrary1.dll
+C:\Users\skuan\source\repos\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\bin\Debug\ClassLibrary1.pdb
+C:\Users\skuan\source\repos\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\obj\Debug\WindowsFormsApp_LAB2.csproj.CopyComplete
+C:\Users\yeraa\OneDrive\Рабочий стол\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\bin\Debug\WindowsFormsApp_LAB2.exe.config
+C:\Users\yeraa\OneDrive\Рабочий стол\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\bin\Debug\WindowsFormsApp_LAB2.exe
+C:\Users\yeraa\OneDrive\Рабочий стол\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\bin\Debug\WindowsFormsApp_LAB2.pdb
+C:\Users\yeraa\OneDrive\Рабочий стол\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\bin\Debug\ClassLibrary1.dll
+C:\Users\yeraa\OneDrive\Рабочий стол\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\bin\Debug\ClassLibrary1.pdb
+C:\Users\yeraa\OneDrive\Рабочий стол\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\obj\Debug\WindowsFormsApp_LAB2.csproj.AssemblyReference.cache
+C:\Users\yeraa\OneDrive\Рабочий стол\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\obj\Debug\WindowsFormsApp_LAB2.csproj.SuggestedBindingRedirects.cache
+C:\Users\yeraa\OneDrive\Рабочий стол\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\obj\Debug\WindowsFormsApp_LAB2.Form1.resources
+C:\Users\yeraa\OneDrive\Рабочий стол\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\obj\Debug\WindowsFormsApp_LAB2.Form2.resources
+C:\Users\yeraa\OneDrive\Рабочий стол\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\obj\Debug\WindowsFormsApp_LAB2.Form3.resources
+C:\Users\yeraa\OneDrive\Рабочий стол\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\obj\Debug\WindowsFormsApp_LAB2.Properties.Resources.resources
+C:\Users\yeraa\OneDrive\Рабочий стол\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\obj\Debug\WindowsFormsApp_LAB2.csproj.GenerateResource.cache
+C:\Users\yeraa\OneDrive\Рабочий стол\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\obj\Debug\WindowsFormsApp_LAB2.csproj.CoreCompileInputs.cache
+C:\Users\yeraa\OneDrive\Рабочий стол\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\obj\Debug\WindowsFormsApp_LAB2.csproj.CopyComplete
+C:\Users\yeraa\OneDrive\Рабочий стол\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\obj\Debug\WindowsFormsApp_LAB2.exe
+C:\Users\yeraa\OneDrive\Рабочий стол\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\obj\Debug\WindowsFormsApp_LAB2.pdb
+C:\Users\yeraa\source\repos\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\bin\Debug\WindowsFormsApp_LAB2.exe.config
+C:\Users\yeraa\source\repos\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\bin\Debug\WindowsFormsApp_LAB2.exe
+C:\Users\yeraa\source\repos\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\bin\Debug\WindowsFormsApp_LAB2.pdb
+C:\Users\yeraa\source\repos\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\bin\Debug\ClassLibrary1.dll
+C:\Users\yeraa\source\repos\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\bin\Debug\ClassLibrary1.pdb
+C:\Users\yeraa\source\repos\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\obj\Debug\WindowsFormsApp_LAB2.csproj.AssemblyReference.cache
+C:\Users\yeraa\source\repos\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\obj\Debug\WindowsFormsApp_LAB2.csproj.SuggestedBindingRedirects.cache
+C:\Users\yeraa\source\repos\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\obj\Debug\WindowsFormsApp_LAB2.Form1.resources
+C:\Users\yeraa\source\repos\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\obj\Debug\WindowsFormsApp_LAB2.Form2.resources
+C:\Users\yeraa\source\repos\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\obj\Debug\WindowsFormsApp_LAB2.Form3.resources
+C:\Users\yeraa\source\repos\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\obj\Debug\WindowsFormsApp_LAB2.Properties.Resources.resources
+C:\Users\yeraa\source\repos\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\obj\Debug\WindowsFormsApp_LAB2.csproj.GenerateResource.cache
+C:\Users\yeraa\source\repos\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\obj\Debug\WindowsFormsApp_LAB2.csproj.CoreCompileInputs.cache
+C:\Users\yeraa\source\repos\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\obj\Debug\WindowsFormsApp_LAB2.csproj.CopyComplete
+C:\Users\yeraa\source\repos\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\obj\Debug\WindowsFormsApp_LAB2.exe
+C:\Users\yeraa\source\repos\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\obj\Debug\WindowsFormsApp_LAB2.pdb
+C:\Users\yeraa\source\repos\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\WindowsFormsApp_LAB2\obj\Debug\WindowsFormsApp_LAB2.Form4.resources
